@@ -1,0 +1,103 @@
+.charity {
+    font-size: 16px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background: #007EA7;
+    text-align: center;
+
+}
+
+.logo {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    /* display: block; */
+    padding-top: 17px;
+
+}
+
+
+#PC {
+    margin: 2rem;
+    background: #DB504A;
+    color: white;
+    margin-bottom: 2rem;
+}
+.sevetwentyfour {
+
+    font-size: 1.5rem;
+    font-display: none;
+    margin-left: 2rem;
+}
+.money {
+    font-size: 1.5rem;
+    font-display: none;
+
+
+}
+
+
+.logo img {
+    width: 11%;
+    border-top-left-radius: .8rem;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 10%;
+    border: .8rem double #3f632e;
+    text-align: center;
+    background-position-x: center;
+    background-position-y: center;
+    margin-bottom: 2rem;
+    margin: 2rem;
+}
+
+#chairty-cb{
+    background-color:white ;
+    color: black;
+font-size: 1.4rem;
+}
+
+.logo div {
+    display: inline-table;
+    height: 50px;
+    margin: 5rem;
+    display: inline-table;
+    min-height: 7rem;
+    width: 19rem;
+    padding: 2rem;
+    margin: 0rem;
+    margin-right: 3rem;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 2rem;
+
+}
+
+.navbar {
+    top: 0rem;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    font-size: 1.5rem;
+}
+.charity-row{
+    background-image: url(images/elder.png);
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    min-height: 33rem;
+}
+.charity-desc{
+    
+    float: right;
+    margin-left: 45%;
+    min-height: 32rem;
+}
+footer{
+    margin-top: 15rem;
+}

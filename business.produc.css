@@ -1,0 +1,215 @@
+.product {
+    font-size: 16px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background: #007EA7;
+    text-align: center;
+
+}
+
+.sevetwentyfour {
+
+    font-size: 1.5rem;
+    font-display: none;
+    margin-left: 2rem;
+}
+
+
+.money {
+    font-size: 1.5rem;
+    font-display: none;
+
+
+}
+
+
+
+
+.logo {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    /* display: block; */
+    padding-top: 17px;
+
+}
+
+
+
+#PC {
+    margin: 2rem;
+    background: #DB504A;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.logo img {
+    width: 11%;
+    border-top-left-radius: .8rem;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 10%;
+    border: .8rem double #3f632e;
+    text-align: center;
+    background-position-x: center;
+    background-position-y: center;
+    margin-bottom: 2rem;
+    margin: 2rem;
+}
+
+.logo div {
+    display: inline-table;
+    height: 50px;
+    margin: 5rem;
+    display: inline-table;
+    min-height: 7rem;
+    width: 19rem;
+    padding: 2rem;
+    margin: 0rem;
+    margin-right: 3rem;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 2rem;
+
+}
+
+.navbar {
+    top: 0rem;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+#SDP-CF {
+    /* background: #ACECF7;  */
+    background: black;
+}
+
+
+
+.WDP-Text {
+
+    color: white;
+    font-size: 2rem;
+    margin-top: .2rem;
+    transition: all 2s;
+    font-size: 1.2rem;
+}
+
+.WDP-Text:hover {
+
+    color: gold;
+}
+
+#coding {
+    height: 308px;
+}
+
+
+
+.HPBTN {
+    color: white;
+    transition: all 2s;
+    font-size: 1.5rem;
+}
+
+.HPBTN:hover {
+
+    color: dodgerblue;
+}
+
+
+
+
+.SDP {
+    color: white;
+    margin-top: .2rem;
+    transition: all 2s;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+}
+
+.SDP:hover {
+
+    color: red;
+}
+
+.DP {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-variant: initial;
+    font-display: inherit;
+}
+
+.hosting-text {
+
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+    text-indent: initial;
+}
+
+#hosting-cb {
+    background: #2C497F;
+    color: white;
+}
+
+#SD-CB {
+    background: #2C497F;
+    color: white;
+    font-size: 1.3rem;
+    text-decoration: bold;
+    line-height: 2rem;
+}
+
+#hoting-cf {
+    background: black;
+    color: white;
+}
+
+
+#WBP {
+    background: black;
+}
+
+.WDP-Text {
+    color: white;
+    font-size: 1.3rem;
+}
+
+#WD-CB {
+    background: #2C497F;
+    color: white;
+
+}
+
+.seven {
+    margin: 40rem;
+
+}
+
+p {
+    font-size: 1.3rem;
+    font-display: initial;
+    line-height: 2rem;
+}
+
+h5 {
+    font-size: 2rem;
+    text-decoration: bold;
+    text-indent: initial;
+    font-style: italic;
+    margin-top: 2rem;
+}
+
+footer{
+ margin-top: 20rem ;
+}
